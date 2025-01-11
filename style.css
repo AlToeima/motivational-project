@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+  font-family: "Libre Baskerville", serif;
+  color: white;
+}
+
+#image {
+  width: 50%;
+  border: 5px solid white;
+  margin-left: 25%;
+  margin-top: 2.5%;
+}
+
+#paragraphs {
+  width: 50%;
+  margin-left: 25%;
+  text-align: center;
+}
+
+#author {
+  text-align: right;
+}
